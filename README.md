@@ -1,4 +1,7 @@
-# Code-Forge
+ <img src="logo.png" alt="logo" width="200"/>  
+ 
+ # Code-Forge
+
 ⚡ Fun fact: ...
 
 <!--
