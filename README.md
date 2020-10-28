@@ -1,8 +1,7 @@
- <img src="logo.png" alt="logo" width="200"/>  
+ <img src="logo.png" alt="logo" width="200"/>   <img src="header.svg" alt="logo" width="600"/>  
  
- # Code-Forge
-
-⚡ Fun fact: ...
+ # Projektliste
+ - [Eier Uhr!](https://github.com/code-forge-de)	🥚🕑  (Schwierigkeit: **ROOKIE**)
 
 <!--
 **code-forge-de/code-forge-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
