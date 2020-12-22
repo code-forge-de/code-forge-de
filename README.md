@@ -1,4 +1,4 @@
- <img src="logo.png" alt="logo" width="200"/>   <img src="header.svg" alt="logo" width="600"/>  
+ <img src="logo.svg" alt="logo" width="200"/>   <img src="header.svg" alt="logo" width="600"/>  
  
  # Projektliste
  - [Eier Uhr!](https://github.com/code-forge-de)	🥚🕑  (Schwierigkeit: **ROOKIE**)
